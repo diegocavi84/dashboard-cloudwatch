@@ -18,7 +18,7 @@ EventBridge (1 min) → Lambda → CloudWatch Metrics → Dashboard → S3 (Web)
 1. Open the dashboard:  
    https://us-east-1.console.aws.amazon.com/cloudwatch/home?region=us-east-1#dashboards:name=MiDashboard
 2. Or visit the website:  
-   http://your-bucket.s3-website-us-east-1.amazonaws.com
+   http://mis-dashboard-123-456.s3-website-us-east-1.amazonaws.com
 
 ## Tech Stack
 - Python
